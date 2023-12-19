@@ -25,4 +25,4 @@ jobs:
           python -m pip install pandas --use-deprecated=legacy-resolver
       # Runs a single command using the runners shell
       - name: Run a Python script
-        run: python test1
+        run: python testwrite
